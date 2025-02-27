@@ -60,3 +60,11 @@ The CSV files contain the following columns:
 
 This repository was developed as part of the Integrative Project I of the Civil Engineering course at the Federal University of Santa Catarina (UFSC).
 
+Daniel Tavare dos Anjos
+Engineering Student at UFSC
+GitHub: https://github.com/danieltanjos
+
+João Vitor Ferreira Pedro
+Engineering Student at UFSC
+GitHub: https://github.com/jvfpedro
+
